@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Usman — Backend Engineer<br><br>- 🔭 I’m currently working on backend services and APIs using **Node.js, MongoDB, Docker, and CI/CD workflows**<br>-  I’m looking to collaborate on scalable backend systems, microservices, and API-driven products<br>-  I’m looking for help with designing efficient authentication, distributed systems, and testing strategies<br>-  I’m currently learning advanced backend patterns, performance optimization, and cloud deployments<br>-  Ask me about REST APIs, Node.js, backend architecture, and system design<br>- ⚡ Fun fact: I enjoy table tennis. like a lot a lot<br>
+##  Hi, I'm Usman — Backend Engineer<br><br>-  I’m currently working on backend services and APIs using **Node.js, MongoDB, Docker, and CI/CD workflows**<br>-  I’m looking to collaborate on scalable backend systems, microservices, and API-driven products<br>-  I’m looking for help with designing efficient authentication, distributed systems, and testing strategies<br>-  I’m currently learning advanced backend patterns, performance optimization, and cloud deployments<br>-  Ask me about REST APIs, Node.js, backend architecture, and system design<br>- ⚡ Fun fact: I enjoy table tennis. like a lot a lot<br>
 
 
 ## 🌐 Socials:
