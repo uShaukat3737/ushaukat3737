@@ -6,6 +6,11 @@ I work on detection, segmentation, tracking and anomaly detection, and on gettin
   <a href="https://github.com/uShaukat3737?tab=repositories">All projects</a>
 </p>
 
+**Recent computer vision work**
+- Segmentation and real-time object tracking at 30+ FPS on satellite and drone imagery with **Prithvi-EO 2.0, RT-DETR and SAM**, for flood-impact mapping
+- **YOLO** road-defect detection: dataset analysis (class balance, annotation quality, failure cases), benchmarking YOLO configurations, and improvement plans for data, model and training
+- Few-shot image anomaly detection with **DINOv2 + PatchCore** that beat a WACV 2025 baseline
+
 **Previously:** `NCRA UAV Dependability Lab, FAST NUCES` `RoadGauge Ltd (UK, remote)`
 
 ---
